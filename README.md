@@ -1,6 +1,7 @@
 <p align="center">
-  ![Animated Header](./header.svg)
+  <img src="readme-typing-svg.herokuapp.com" alt="Typing SVG" />
 </p>
+
 
 # Hi there! 👋
 
