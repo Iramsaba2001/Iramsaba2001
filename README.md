@@ -4,4 +4,4 @@
 </h1>
 
 
-I'm Iramsaba, a **Software Engineer**. Welcome to my GitHub profile!
+I'm Iramsaba, Welcome to my GitHub profile!
